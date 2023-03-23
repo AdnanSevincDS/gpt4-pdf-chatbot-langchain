@@ -14,7 +14,7 @@ specifiers:
   eslint: 8.35.0
   eslint-config-next: 13.2.3
   langchain: 0.0.33
-  lucide-react: ^0.125.0
+  lucide-react: ^0.125.0sadsada
   next: 13.2.3
   pdf-parse: 1.1.1
   postcss: ^8.4.21
